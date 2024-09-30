@@ -19,6 +19,7 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@strapi/email": "^5.0.0-rc.30",
     "@strapi/plugin-cloud": "5.0.0",
     "@strapi/plugin-users-permissions": "5.0.0",
     "@strapi/strapi": "5.0.0",
@@ -35,7 +36,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "LAUNCHPAD"
+    "uuid": "LAUNCHPAD-LOCAL-bf18c1dd-1c3d-4b66-8483-3c853ab5de7b"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
